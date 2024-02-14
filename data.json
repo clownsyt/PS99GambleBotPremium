@@ -1,0 +1,58 @@
+{
+    "users": {
+
+    },
+    "cases": [
+        {
+            "Name": "Template Case",
+            "Price": 2,
+            "Icon": "https://psxv.b-cdn.net/pets/update%20hype%20gift.png",
+            "Drops": [
+                {
+                    "Name": "Template Dog",
+                    "Worth": 2,
+                    "Chance": 50,
+                    "Icon": "https://psxv.b-cdn.net/pets/party%20dog.png"
+                },
+                {
+                    "Name": "Template Cat",
+                    "Worth": 2,
+                    "Chance": 50,
+                    "Icon": "https://psxv.b-cdn.net/pets/party%20pig.png"
+                }
+            ]
+        }
+    ],
+    "bets": [
+        {
+            "userid": "1161699592786694357",
+            "time": 1703745262,
+            "bet": 1000000,
+            "winnings": 0
+        },
+        {
+            "userid": "870177313843740712",
+            "time": 1703745407,
+            "bet": 1000000,
+            "winnings": 22500000
+        },
+        {
+            "userid": "870177313843740712",
+            "time": 1703745431,
+            "bet": 22000000,
+            "winnings": 495000000
+        },
+        {
+            "userid": "1161699592786694357",
+            "time": 1703745466,
+            "bet": 1000000,
+            "winnings": 0
+        },
+        {
+            "userid": "1161699592786694357",
+            "time": 1703745478,
+            "bet": 1000000,
+            "winnings": 0
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+discord.py==2.3.2
+aiosqlite
+requests
+quart
